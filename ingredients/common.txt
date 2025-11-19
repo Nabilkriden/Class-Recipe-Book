@@ -1,0 +1,18 @@
+# Ingredients List  
+(A shared file for the workshop — everyone will edit it)
+
+This file contains a list of ingredients for a fictional cooking application.
+Each student should **add ONE ingredient** to the list at the bottom.
+
+This will cause merge conflicts on purpose during the workshop.
+
+---
+
+## Ingredients
+
+- Tomatoes
+- Potatoes
+- Onions
+- Garlic
+- Soap
+favorite_ingredient = sugar
