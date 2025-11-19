@@ -14,5 +14,6 @@ This will cause merge conflicts on purpose during the workshop.
 - Potatoes
 - Onions
 - Garlic
+
 - Soap
 favorite_ingredient = sugar
