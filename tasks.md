@@ -7,6 +7,8 @@ git checkout -b firstname-branch
 Activity 2 — Add your own recipe
 Create:  recipes/<your-name>-recipe.md
 
+
+
 Example:
 # My Recipe: Chocolate Milkshake
 Ingredients: milk, cocoa, sugar
